@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0RcTIG2XWEWbbnOko3CVJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="3d3d6a18-c603-464b-a92a-e875a590ae75" CvElementArea="332, 616, 256, 62" CvTextArea="407, 634, 129, 26" CvTextArgument="User options" CvType="Button" DesignTimeRectangle="334, 619, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' aaname='                  User options' check:innerText='User options' /&gt;" Guid="d6029df5-1e81-41d1-8476-d315f2c18b76" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3d3d6a18-c603-464b-a92a-e875a590ae75" CvTextArea="331, 522, 898, 43" CvTextArgument="Welcome, niraj.s@xencia.com to System 1." CvType="Text" DesignTimeRectangle="334, 519, 1250, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' check:innerText='Welcome, niraj.s@xencia.com to System 1.' /&gt;" Guid="3e83f579-050b-4cd2-8bdc-50e03fc2f439" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ad125eeccfd45d985bc4f52ca2f8ae40.png" xmlns="">0pYoSAJU1JEWlpVBVaIAOMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

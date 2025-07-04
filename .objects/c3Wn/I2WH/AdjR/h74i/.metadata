@@ -1,0 +1,14 @@
+﻿{
+  "Name": "User options",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "h74iTMPEdk6fGdCFIImqmw",
+  "Reference": "ogE_Aexk7ki5HHL0LiVF0g/h74iTMPEdk6fGdCFIImqmw",
+  "ParentRef": "ogE_Aexk7ki5HHL0LiVF0g/AdjR3wamQEKXxO4Maj3lYw",
+  "Created": "2025-07-02T09:38:38.7220055Z",
+  "Updated": "2025-07-02T09:38:38.7220055Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
